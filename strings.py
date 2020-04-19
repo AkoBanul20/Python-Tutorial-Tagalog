@@ -17,7 +17,15 @@ city = 'Quezon City'
 ''' String methods '''
 
 BC = 'Welcome To Our Youtube Channel'
-
+#BC.upper()
+# BC.lower()
+# BC.title()
+# BC.swapcase()
+# len(BC)
+# BC.replace('Our','My')
+# BC.count('o')
+# BC.startswith('elcome')
+# BC.endswith('l')
 New_BC = BC.endswith('l')
 print(New_BC)
 
